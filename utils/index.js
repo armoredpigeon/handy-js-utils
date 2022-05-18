@@ -1,0 +1,1 @@
+export { getStructure } from './GetObjectStructure';
